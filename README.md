@@ -25,7 +25,7 @@ Co-desenvolvimento do MVP de administração voltado para o poder público munic
 ## ⚙️ Stack Tecnológica do Ecossistema
 
 - **Mobile:** React Native (Expo Router)
-- **Web Dashboard:** React.js / Vue.js integrados com Google Maps API
+- **Web Dashboard:** React.js integrados com Google Maps API
 - **Backend & Banco de Dados:** Firebase (Authentication para sessões, Firestore para banco NoSQL escalonável e Storage para armazenamento binário)
 - **Inteligência Artificial:** Modelo YOLOv8 treinado via Roboflow e processado em nuvem (Google Colab) com foco em detecção passiva veicular.
 
