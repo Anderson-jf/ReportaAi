@@ -1,6 +1,6 @@
 # Plataforma ReportaAi 🏙️🦟
 
-A **Plataforma ReportaAi** é um ecossistema integrado de GovTech focado em Cidades Inteligentes e Vigilância em Saúde. O sistema foi projetado para otimizar a identificação de anomalias urbanas (como buracos na pavimentação e descarte incorreto de entulhos). Atua como uma ferramenta de mapeamento epidemiológico, identificando potenciais focos de proliferação do mosquito *Aedes aegypti*.
+A **Plataforma ReportaAi** é um ecossistema integrado de GovTech focado em Cidades Inteligentes e Vigilância em Saúde. O sistema foi projetado para otimizar a identificação de anomalias urbanas (como buracos na pavimentação e descarte incorreto de entulhos). Atua como uma ferramenta de mapeamento epidemiológico, identificando potenciais focos de fossa cheia, entulho, vazamento... e etc.
 
 ---
 
