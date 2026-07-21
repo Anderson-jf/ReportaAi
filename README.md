@@ -12,8 +12,6 @@ O projeto integra um aplicativo desenvolvido em React Native, um painel administ
 
 🌐 Painel Administrativo
 
-*(adicione os links quando disponíveis)*
-
 ---
 
 # Funcionalidades
